@@ -1,4 +1,4 @@
-module github.com/Clickhouse/ch-go
+module github.com/ClickHouse/ch-go
 
 go 1.18
 
